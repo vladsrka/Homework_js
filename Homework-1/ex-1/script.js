@@ -58,7 +58,7 @@ function aesDecrypt(cipherText, secretKey) {
   return decrypted.toString(CryptoJS.enc.Utf8);
 }
 
-// Пример использования
+
 const secretKey = "mySecretKey123"; // Ваш секретный ключ
 const textToEncrypt = "Hello, World!";
 
