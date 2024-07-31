@@ -42,6 +42,10 @@
 // const decryptedText = decrypt(encryptedText, shift);
 // console.log("Дешифрованный текст:", decryptedText);
 
+//
+//
+//
+//
 // EX 1.2
 // Функция для шифрования текста с использованием AES
 function aesEncrypt(plainText, secretKey) {
